@@ -8,6 +8,10 @@
 
 ## Archivos
 - `main.py` — código fuente del juego
+- `bullet` — Lógica de las balas (velocidad, dirección, colisiones)
+- `enemy` — Contiene la clase Enemy y su comportamiento
+- `player` — Contiene la clase Player y sus funciones
+- `utils` — Funciones auxiliares (cargar imágenes, texto, etc.)
 - `README.md` — este archivo
 
 ## Cómo ejecutar
